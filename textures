@@ -1,0 +1,6 @@
+ll.bmp: Wall texture for the maze.
+floor.bmp: Floor texture.
+ceiling.bmp: Ceiling texture.
+weapon.bmp: Texture of the weapon (gun).
+weapon_fire.bmp: Gun texture when the player shoots.
+enemy.bmp: Texture of the enemy.

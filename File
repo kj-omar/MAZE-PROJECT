@@ -1,0 +1,10 @@
+n.c                 # Main game logic
+- textures/
+    - wall.bmp           # Texture for the maze walls
+    - floor.bmp          # Texture for the floor
+    - ceiling.bmp        # Texture for the ceiling
+    - weapon.bmp         # Weapon texture
+    - weapon_fire.bmp    # Weapon firing texture
+    - enemy.bmp          # Enemy texture
+- Makefile               # Compilation script (for Linux/Mac)
+
