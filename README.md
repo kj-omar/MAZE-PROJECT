@@ -4,9 +4,9 @@
 ## Introduction
 SDL2 Maze Game is a 3D maze adventure built with the SDL2 library using raycasting. Players navigate through a maze while avoiding enemies and collecting items. The project demonstrates core concepts of game development, including input handling, rendering, collision detection, and basic AI for enemies.
 
-- **Deployed Site**: [Link to deployed site]
-- **Final Project Blog Article**: [Link to blog article]
-- **Author's LinkedIn**: [Your LinkedIn Profile]
+- **Deployed Site**: kj-omar.github.io
+- **Final Project Blog Article**:https://docs.google.com/document/d/1_VgzM4fBOrI5JxH6ATAxpYSVpEmFTMB8ro-0Y5qkirE/edit?usp=sharing
+- **Author's LinkedIn**: (https://www.linkedin.com/in/omar-mihabi-533053279/)
 
 ## Installation
 To run this project locally, follow these steps:
