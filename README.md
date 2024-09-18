@@ -33,16 +33,6 @@ To run this project locally, follow these steps:
 - Your objective is to survive and find the exit.
 
 ## Screenshot
-![Maze Game Screenshot](path/to/screenshot.png)
-
-## Contributing
-If you'd like to contribute to this project:
-
-1. Fork the repository.
-2. Create a new feature branch: `git checkout -b feature-branch-name`
-3. Commit your changes: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin feature-branch-name`
-5. Open a pull request.
 
 ## Related Projects
 - [SDL2 Official Documentation](https://wiki.libsdl.org/SDL2)
